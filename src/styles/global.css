@@ -1,0 +1,7 @@
+@import url('//fonts.googleapis.com/earlyaccess/notosanskr.css'); /* 폰트 본고딕 사용 */
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'noto sans kr', sans-serif;
+}
